@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Amira Rahali</h1>
+<h3 align="center">Full Stack Developer & DevOps Engineer</h3>
 
-<!--
-**amira-rahali/amira-rahali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Passionate Full Stack Developer specializing in modern web development and DevOps practices.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+Angular • React • Spring Boot • Node.js • Symfony • Docker • Jenkins • Git • CI/CD • DevOps
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+✨ Build • Automate • Deploy • Scale ✨
+</p>
